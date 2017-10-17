@@ -15,9 +15,6 @@ Another big plus of quantum information it the ability to store information in a
 However, not all is well : like everything in the real world, a quantum information channel cannot be perfect. The same physical phenomena that allow quantum information can greatly interfere its successful implementation in the real world. Amongst these, to be noted are the depolarizing channel (when qubits are in the form of polarized photons, and the medium through which the photons are transmitted ruins their polarization), Amplitude damping (due to energy dissipation), and Phase damping - loss of quantum information without loss of energy. 
 
 
-## Noise in Quantum Information
-
-
 # Phase Damping 
 
 The simulation explores a noise process which is unique to quantum information : the phase damping. Taking an example from our physical world, phase damping describes what happens when a photon scatters randomly as it travels through a waveguide, or how electronic states in an atom are perturbed upon interacting with distant electrical charges. The energy eigenstates of a quantum system do not change as a function of time, but do accumulate a phase proportional to the eigenvalue. When such a system evolves for an amount of time (noted as steps in the simulation), partial information about this quantum phase - the relative phase between the energy eigenstates - is lost. 
