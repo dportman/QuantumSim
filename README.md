@@ -7,8 +7,8 @@ Quantum Information is physical information (usually represented by zeros and on
 
 # What is Quantum Information good for? 
 
-Quantum Information offers significant impovements over classical information: for example, when a qubit is transmitted from A to B, the receiving party B can tell whether the qubit had been read by a malicious eavesdropper E , because any measurement of the qubit collapses it`s state and thus affects the information it carries. 
-Another big plus of quantum information it the ability to store information in a qubit that is a superposition of it`s basis states: in this way, if a classical bit can only take "0" and "1" values, a qubit can be represented as α |0> + β|1>, where both α and β are complex coefficients. Moreover, quantum information uses the entanglement property of certain quantum systems to speed-up information transmission (super-dense coding), and even allow teleportation of information. 
+Quantum Information offers significant impovements over classical information: for example, when a qubit is transmitted from A to B, the receiving party B can tell whether the qubit had been read by a malicious eavesdropper E , because any measurement of the qubit collapses its state and thus affects the information it carries. 
+Another big plus of quantum information it the ability to store information in a qubit that is a superposition of its basis states: in this way, if a classical bit can only take "0" and "1" values, a qubit can be represented as α |0> + β|1>, where both α and β are complex coefficients. Moreover, quantum information uses the entanglement property of certain quantum systems to speed-up information transmission (super-dense coding), and even allow teleportation of information. 
 
 # Noise in Quantum Information channels 
 
